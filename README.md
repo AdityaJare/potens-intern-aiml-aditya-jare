@@ -10,7 +10,7 @@ This system ingests multiple substantive regulatory documents, supports accurate
 
 ### 1. Prerequisites
 - Python 3.10 or higher.
-- A Gemini API Key (obtained for free from [Google AI Studio](https://aistudio.google.com/apikey)).
+- A Groq API Key (obtained for free from the [Groq Console](https://console.groq.com/keys)).
 
 ### 2. Setup
 Clone the repository, enter the directory, and set up a virtual environment:
