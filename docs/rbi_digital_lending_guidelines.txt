@@ -1,0 +1,141 @@
+RESERVE BANK OF INDIA
+GUIDELINES ON DIGITAL LENDING
+Department of Regulation
+September 2, 2022
+
+BACKGROUND
+
+The Reserve Bank of India (RBI) has been closely monitoring the growth of digital lending activities in India. With the proliferation of lending through digital channels, including mobile apps and online platforms, concerns have emerged regarding consumer protection, data privacy, and fair lending practices. These guidelines are issued to address these concerns and establish a regulatory framework for digital lending in India.
+
+The Working Group on Digital Lending, constituted by RBI in January 2021, submitted its report in November 2021 with recommendations covering the entire spectrum of digital lending activities. These guidelines incorporate the key recommendations of the Working Group.
+
+CHAPTER 1: DEFINITIONS AND SCOPE
+
+1.1 Digital Lending
+Digital lending refers to the process of providing loans through digital channels, including mobile applications, web platforms, and other electronic means. This encompasses the entire lending lifecycle from customer acquisition, credit assessment, loan disbursement, to recovery.
+
+1.2 Lending Service Providers (LSPs)
+An agent of a Regulated Entity (RE) who carries out one or more of lender's functions or part thereof in customer acquisition, underwriting support, pricing support, servicing, and monitoring activity in the loan lifecycle, in conformity with the extant outsourcing guidelines issued by the respective regulatory department of the RBI.
+
+1.3 Digital Lending Apps (DLAs)
+Mobile and web applications with customer interface, owned by Regulated Entities or by LSPs and used for digital lending.
+
+1.4 Regulated Entities (REs)
+Banks, Non-Banking Financial Companies (NBFCs), and other entities regulated by RBI that engage in lending activities.
+
+CHAPTER 2: CUSTOMER PROTECTION MEASURES
+
+2.1 Disclosure Requirements
+All Regulated Entities and their LSPs must disclose the following to borrowers at the time of loan origination:
+- The name of the RE and the LSP.
+- The total cost of the loan, including all fees and charges.
+- The annual percentage rate (APR).
+- The terms and conditions of the loan.
+- The cooling-off period during which the borrower can exit without penalty.
+- The grievance redressal mechanism.
+
+2.2 Cooling-Off Period
+Borrowers must be given a cooling-off/look-up period of at least 3 days during which they can exit the digital loan by paying the principal and the proportionate APR without any penalty. This is a significant consumer protection measure unique to India's digital lending framework.
+
+2.3 Pricing Transparency
+- All fees and charges must be disclosed upfront.
+- No hidden charges are permitted.
+- The APR must be computed on an all-inclusive basis.
+- Penal charges must be reasonable and clearly disclosed.
+
+CHAPTER 3: DATA PROTECTION AND PRIVACY
+
+3.1 Data Collection Limitations
+Digital Lending Apps shall:
+- Collect only data that is necessary for the lending process.
+- Not access mobile phone resources such as contacts, photos, gallery, files, and media, except camera, microphone, and location which may be collected with explicit consent and only for specific purposes.
+- Obtain explicit consent for each category of data collected.
+- Allow borrowers to revoke consent and delete data.
+
+3.2 Data Storage and Security
+- All personal data must be stored in servers located in India.
+- Data must be encrypted at rest and in transit.
+- Access to personal data must be restricted on a need-to-know basis.
+- Regular security audits must be conducted.
+- Data retention must comply with the applicable data protection laws.
+
+3.3 Data Sharing Restrictions
+- Personal data collected by DLAs must not be shared with third parties without explicit consent.
+- Data sharing with credit bureaus must comply with extant regulations.
+- Cross-selling using personal data requires separate, explicit consent.
+
+This data localisation requirement for lending data aligns with the DPDPA's framework but is more prescriptive in specifying which types of data access are permitted on mobile devices.
+
+CHAPTER 4: LENDING CONDUCT
+
+4.1 Loan Disbursement
+- All loan disbursements must be made directly to the borrower's bank account.
+- Disbursement through pass-through accounts of LSPs is prohibited.
+- This ensures a direct relationship between the RE and the borrower.
+
+4.2 Loan Servicing
+- EMI payments must be collected directly to the RE's bank account.
+- Use of automatic increase in credit limit without explicit consent is prohibited.
+- Prepayment penalties on floating rate loans are prohibited.
+
+4.3 Recovery Practices
+- Recovery agents must identify themselves and the RE they represent.
+- Harassment or coercion during recovery is strictly prohibited.
+- Recovery calls are permitted only between 8 AM and 7 PM.
+- Physical visits for recovery must follow respectful conduct guidelines.
+- Use of threats, obscene language, or intimidation is prohibited.
+
+CHAPTER 5: TECHNOLOGY STANDARDS
+
+5.1 Platform Requirements
+DLAs must:
+- Be listed on official app stores (Google Play Store, Apple App Store).
+- Display the name and registration details of the RE.
+- Implement robust authentication mechanisms.
+- Provide a clear and accessible privacy policy.
+- Include a functional grievance redressal mechanism within the app.
+
+5.2 Credit Decision Transparency
+- AI/ML models used for credit scoring must be explainable.
+- Borrowers must be informed of the key factors that influenced the credit decision.
+- Black-box models that provide no explanation for loan rejection are not acceptable.
+- This requirement for AI explainability in lending decisions directly aligns with the NITI Aayog AI strategy's emphasis on transparent AI.
+
+5.3 Audit Trail
+- All digital lending transactions must maintain a complete audit trail.
+- Records must be maintained for a minimum of 7 years after the loan is closed.
+- The audit trail must be tamper-proof and available for regulatory inspection.
+
+CHAPTER 6: REGULATORY REPORTING
+
+6.1 Reporting Requirements
+Regulated Entities engaged in digital lending must:
+- Report all digital lending activities to the RBI.
+- Submit data on loan volumes, default rates, and customer complaints.
+- Report any cybersecurity incidents as per CERT-In requirements.
+- Maintain records of all LSPs and DLAs used.
+
+6.2 Self-Regulatory Organization (SRO)
+The RBI has proposed the establishment of a Self-Regulatory Organization for digital lending entities. The SRO will:
+- Develop industry standards and best practices.
+- Monitor compliance among members.
+- Handle disputes between members.
+- Serve as a bridge between the industry and the regulator.
+
+CHAPTER 7: PENALTIES AND ENFORCEMENT
+
+7.1 Non-Compliance Consequences
+Non-compliance with these guidelines may result in:
+- Monetary penalties as prescribed under the RBI Act.
+- Restrictions on digital lending activities.
+- Revocation of licenses for repeat offenders.
+- Directions to cease and desist specific practices.
+
+7.2 Consumer Complaint Mechanism
+- Borrowers can file complaints with the RE's internal grievance mechanism.
+- If unresolved within 30 days, complaints can be escalated to the RBI Ombudsman.
+- The RBI maintains a dedicated portal for digital lending complaints.
+
+CONCLUSION
+
+These guidelines establish a comprehensive framework for regulating digital lending in India. By mandating transparency, protecting consumer data, and ensuring fair lending practices, the RBI aims to foster a healthy digital lending ecosystem that serves the interests of borrowers while enabling innovation in the financial sector. All Regulated Entities are expected to comply with these guidelines immediately for new digital loans and within a reasonable timeline for existing arrangements.

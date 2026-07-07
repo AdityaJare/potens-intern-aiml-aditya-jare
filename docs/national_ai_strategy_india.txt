@@ -1,0 +1,117 @@
+NATIONAL STRATEGY FOR ARTIFICIAL INTELLIGENCE
+#AIForAll
+NITI Aayog, Government of India
+
+EXECUTIVE SUMMARY
+
+India's national strategy for artificial intelligence is built on the principle of #AIForAll — ensuring that the benefits of AI reach every citizen, across all strata of society. This document outlines the government's vision, strategy, and action plan for positioning India as a global leader in AI research and deployment.
+
+CHAPTER 1: VISION AND OBJECTIVES
+
+1.1 India's AI Ambition
+
+India aims to become a leading AI economy by leveraging its demographic dividend, data abundance, and growing technology ecosystem. The strategy focuses on five priority sectors: healthcare, agriculture, education, smart cities, and smart mobility.
+
+1.2 Core Principles
+
+The following principles guide India's AI strategy:
+- Inclusivity: AI solutions must be accessible to all sections of society, including rural and underserved populations.
+- Responsible AI: Development and deployment of AI must adhere to ethical guidelines, with transparency, accountability, and fairness as core tenets.
+- Data sovereignty: India's data must be governed by Indian laws and regulations, with appropriate safeguards for citizen privacy.
+- Public-private partnership: The government will actively collaborate with industry, academia, and civil society to drive AI adoption.
+
+1.3 Five Sectors of Focus
+
+Healthcare: AI-powered diagnostics, drug discovery, and telemedicine for last-mile delivery of healthcare services. India aims to reduce the doctor-patient ratio gap through AI-assisted tools.
+
+Agriculture: Precision agriculture using AI for crop prediction, soil health analysis, pest detection, and market price forecasting. This will directly benefit over 50% of India's workforce engaged in agriculture.
+
+Education: Personalized learning platforms, automated assessment systems, and AI tutors that can deliver quality education in regional languages.
+
+Smart Cities: AI-driven traffic management, waste management, energy optimization, and public safety systems for India's 100 planned smart cities.
+
+Smart Mobility: Autonomous vehicles, intelligent transport systems, and AI-based logistics optimization to transform India's transportation infrastructure.
+
+CHAPTER 2: RESEARCH AND DEVELOPMENT
+
+2.1 Centres of Research Excellence (COREs)
+
+The government proposes establishing 20 Centres of Research Excellence in AI across premier institutions such as IITs, IISc, and NITs. Each CORE will focus on specific AI domains including natural language processing for Indian languages, computer vision for agriculture, and AI for healthcare diagnostics.
+
+Funding: An initial allocation of Rs 7,500 crore over five years is proposed for AI research and development.
+
+2.2 International Collaboration
+
+India will establish bilateral AI research partnerships with countries including the United States, Japan, the United Kingdom, France, and Singapore. These partnerships will focus on joint research projects, data sharing frameworks, and talent exchange programs.
+
+2.3 AI Talent Development
+
+The strategy calls for training 1 million AI professionals by 2025 through:
+- Integrating AI courses into undergraduate curricula across engineering colleges.
+- Launching specialized AI Master's programs at 50 universities.
+- Creating AI skilling programs for working professionals through NASSCOM and NITI Aayog partnerships.
+- Establishing AI fellowships for doctoral researchers.
+
+CHAPTER 3: DATA ECOSYSTEM
+
+3.1 Data as a Strategic Asset
+
+India generates vast amounts of data across government, commercial, and social interactions. The strategy proposes creating a National AI Data Platform that aggregates anonymized datasets from government departments, making them available for AI research and development.
+
+3.2 Data Privacy Framework
+
+All AI systems must comply with India's data protection laws. Personal data used for AI training must be anonymized, and citizens must have the right to opt out of data collection. The framework mandates:
+- Explicit consent for data collection.
+- Purpose limitation — data collected for one purpose cannot be used for another without consent.
+- Data localization — sensitive personal data must be stored within India's borders.
+- Regular audits of AI systems for bias and discrimination.
+
+3.3 Open Data Initiative
+
+The government will release 100+ high-quality datasets across priority sectors to accelerate AI research. These datasets will be curated, annotated, and made available through a centralized data portal.
+
+CHAPTER 4: ETHICS AND GOVERNANCE
+
+4.1 Responsible AI Framework
+
+India's approach to AI governance prioritizes:
+- Transparency: AI systems must be explainable. Black-box models used in critical decisions (healthcare, law enforcement, credit) must provide interpretable explanations.
+- Accountability: Clear liability frameworks for AI-caused harm. Developers, deployers, and operators share responsibility.
+- Fairness: AI systems must be tested for bias across caste, gender, religion, and regional lines specific to India's diverse social fabric.
+- Safety: AI systems deployed in critical infrastructure must undergo rigorous safety testing and certification.
+
+4.2 Regulatory Sandbox
+
+The government proposes a regulatory sandbox for AI applications, allowing startups and enterprises to test innovative AI solutions in a controlled environment before full-scale deployment. The sandbox will operate under NITI Aayog's oversight with participation from sector-specific regulators.
+
+4.3 AI Ethics Board
+
+An independent AI Ethics Board will be constituted with representation from government, industry, academia, and civil society. The board will:
+- Develop ethical guidelines for AI development and deployment.
+- Review high-risk AI applications before deployment.
+- Investigate complaints related to AI bias, discrimination, or harm.
+- Publish annual reports on the state of AI ethics in India.
+
+CHAPTER 5: IMPLEMENTATION ROADMAP
+
+Phase 1 (2020-2022): Foundation
+- Establish COREs at 5 premier institutions.
+- Launch the National AI Data Platform.
+- Release first set of open datasets.
+- Begin AI skilling programs.
+
+Phase 2 (2022-2025): Scale
+- Expand COREs to 20 institutions.
+- Deploy AI solutions in healthcare and agriculture at scale.
+- Establish the AI Ethics Board.
+- Achieve 500,000 trained AI professionals.
+
+Phase 3 (2025-2030): Leadership
+- Position India among the top 5 AI economies globally.
+- Achieve 1 million AI professionals.
+- Full deployment of AI across all five priority sectors.
+- Establish India as a hub for responsible AI development.
+
+CONCLUSION
+
+India's AI strategy represents a comprehensive, inclusive, and responsible approach to harnessing artificial intelligence for national development. By focusing on sectors that directly impact citizens' lives, investing in research and talent, and establishing robust governance frameworks, India can ensure that AI serves as a force multiplier for inclusive growth.

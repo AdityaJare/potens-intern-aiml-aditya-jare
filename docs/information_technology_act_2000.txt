@@ -1,0 +1,129 @@
+INFORMATION TECHNOLOGY ACT, 2000
+(As amended by the Information Technology Amendment Act, 2008)
+Government of India
+Ministry of Electronics and Information Technology
+
+KEY PROVISIONS AND ANALYSIS
+
+CHAPTER I: PRELIMINARY
+
+Section 1: Short Title, Extent and Commencement
+The Information Technology Act, 2000 (IT Act) is the primary law in India dealing with cybercrime and electronic commerce. It was enacted on 17 October 2000 and has been amended several times, most significantly in 2008.
+
+Section 2: Key Definitions
+
+"Computer" means any electronic, magnetic, optical or other high-speed data processing device or system which performs logical, arithmetic, and memory functions by manipulations of electronic, magnetic or optical impulses, and includes all input, output, processing, storage, computer software, or communication facilities which are connected or related to the computer in a computer system or computer network.
+
+"Data" means a representation of information, knowledge, facts, concepts or instructions which are being prepared or have been prepared in a formalised manner, and is intended to be processed, is being processed or has been processed in a computer system or computer network, and may be in any form.
+
+"Electronic signature" means authentication of any electronic record by a subscriber by means of the electronic technique specified in the second schedule and includes digital signature.
+
+"Intermediary" means any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record and includes telecom service providers, network service providers, internet service providers, web-hosting service providers, search engines, online payment sites, online-auction sites, online-marketplaces and cyber cafes.
+
+CHAPTER II: DIGITAL SIGNATURES AND ELECTRONIC GOVERNANCE
+
+Section 3: Authentication of Electronic Records
+Any subscriber may authenticate an electronic record by affixing his digital signature. The authentication of the electronic record shall be effected by the use of asymmetric crypto system and hash function.
+
+Section 4: Legal Recognition of Electronic Records
+Where any law provides that information or any other matter shall be in writing or in the typewritten or printed form, then such requirement shall be deemed to have been satisfied if such information or matter is rendered or made available in an electronic form and accessible so as to be usable for a subsequent reference.
+
+CHAPTER III: ELECTRONIC GOVERNANCE
+
+Section 6: Use of Electronic Records in Government
+Where any law provides for the filing of any form, application or any other document with any office, authority, body or agency owned or controlled by the appropriate Government, such filing may be done in electronic form as prescribed.
+
+Section 7: Retention of Electronic Records
+Where any law provides that documents, records or information shall be retained for any specific period, then such requirement shall be deemed to have been satisfied if such documents, records or information are retained in electronic form, provided:
+- The information contained therein remains accessible so as to be usable for a subsequent reference.
+- The electronic record is retained in the format in which it was originally generated, sent or received.
+- The details which will facilitate the identification of the origin, destination, date and time of dispatch or receipt of such electronic record are available.
+
+CHAPTER V: SECURE ELECTRONIC RECORDS AND SIGNATURES
+
+Section 14: Secure Electronic Record
+Where any security procedure has been applied to an electronic record at a specific point of time, then such record shall be deemed to be a secure electronic record from such point of time to the time of verification.
+
+Section 15: Secure Electronic Signature
+An electronic signature shall be deemed to be a secure electronic signature if the signature creation data is linked to the signatory and no other person, and was under the control of the signatory at the time of signing.
+
+CHAPTER IX: PENALTIES, COMPENSATION AND ADJUDICATION
+
+Section 43: Penalty for Damage to Computer Systems
+If any person without permission of the owner or any other person who is in charge of a computer, computer system or computer network:
+- Accesses or secures access to such computer system — penalty up to Rs 1 crore.
+- Downloads, copies, or extracts any data — penalty up to Rs 1 crore.
+- Introduces any computer virus or contaminant — penalty up to Rs 1 crore.
+- Damages or disrupts any computer system — penalty up to Rs 1 crore.
+- Denies access to any person authorised to access — penalty up to Rs 1 crore.
+
+Section 43A: Compensation for Failure to Protect Data
+Where a body corporate, possessing, dealing or handling any sensitive personal data or information in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate shall be liable to pay damages by way of compensation to the person so affected.
+
+Note: The DPDPA 2023 is expected to subsume and replace this section with a more comprehensive data protection framework with higher penalties (up to Rs 250 crore versus Rs 1 crore).
+
+CHAPTER XI: OFFENCES
+
+Section 65: Tampering with Computer Source Documents
+Whoever knowingly or intentionally conceals, destroys or alters any computer source code used for a computer, computer programme, computer system or computer network, when the computer source code is required to be kept or maintained by law, shall be punishable with imprisonment up to three years, or with fine up to two lakh rupees, or with both.
+
+Section 66: Computer Related Offences
+If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.
+
+Section 66A: Punishment for Sending Offensive Messages (STRUCK DOWN)
+This section was struck down by the Supreme Court of India in the landmark case of Shreya Singhal v. Union of India (2015) as unconstitutional for violating Article 19(1)(a) — the right to freedom of speech and expression. The court held that the section was vague and overbroad.
+
+Section 66B: Punishment for Dishonestly Receiving Stolen Computer Resource
+Punishment with imprisonment up to three years, or fine up to one lakh rupees, or both.
+
+Section 66C: Punishment for Identity Theft
+Whoever fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment up to three years and fine up to one lakh rupees.
+
+Section 66D: Punishment for Cheating by Personation using Computer Resources
+Imprisonment up to three years and fine up to one lakh rupees.
+
+Section 66E: Punishment for Violation of Privacy
+Imprisonment up to three years or fine up to two lakh rupees or both.
+
+Section 66F: Punishment for Cyber Terrorism
+If any person with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people denies access to any person authorised to access computer resource, or attempts to penetrate or access a computer resource without authorisation, shall be punishable with imprisonment which may extend to imprisonment for life.
+
+CHAPTER XII: INTERMEDIARY LIABILITY
+
+Section 79: Exemption from Liability for Intermediaries
+An intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him if:
+- The function of the intermediary is limited to providing access to a communication system.
+- The intermediary does not initiate the transmission, select the receiver, or modify the information.
+- The intermediary observes due diligence while discharging duties under this Act and also observes guidelines prescribed by the Central Government.
+
+However, the exemption does not apply if:
+- The intermediary has conspired or abetted the commission of the unlawful act.
+- Upon receiving actual knowledge or being notified by the government, the intermediary fails to expeditiously remove or disable access to the material.
+
+CHAPTER XIII: DATA PROTECTION (PRE-DPDPA)
+
+Section 72: Breach of Confidentiality and Privacy
+Any person who has secured access to any electronic record, book, register, correspondence, information, document or other material without the consent of the person concerned, discloses such material to any other person, shall be punished with imprisonment up to two years, or fine up to one lakh rupees, or both.
+
+Section 72A: Punishment for Disclosure of Information in Breach of Lawful Contract
+Any person including an intermediary who, while providing services under the terms of lawful contract, has secured access to any material containing personal information about another person, with the intent to cause or knowing that he is likely to cause wrongful loss or wrongful gain, discloses such material without consent, shall be punished with imprisonment up to three years, or fine up to five lakh rupees, or both.
+
+Note: The data protection provisions of the IT Act are significantly weaker than those in the DPDPA 2023. The penalties under the IT Act (Rs 1-5 lakh) are substantially lower than those under the DPDPA (up to Rs 250 crore). The DPDPA also provides a more structured framework for consent, data processing, and individual rights.
+
+CHAPTER XIV: MISCELLANEOUS
+
+Section 87: Power of Central Government to Make Rules
+The Central Government may, by notification in the Official Gazette, make rules to carry out the provisions of this Act. Significant rules made under the IT Act include:
+- Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011.
+- Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+
+RELEVANCE IN THE CURRENT REGULATORY LANDSCAPE
+
+The IT Act, 2000 remains the foundational cyber law in India. However, with the enactment of the DPDPA 2023 and the issuance of CERT-In directions in 2022, the regulatory landscape has become more complex. Key interactions include:
+
+1. The DPDPA 2023 will override the data protection provisions of the IT Act for personal data.
+2. CERT-In directions under Section 70B of the IT Act have created additional cybersecurity obligations.
+3. The IT Act continues to govern cybercrimes, electronic governance, and intermediary liability.
+4. Sector-specific regulations (RBI for banking, SEBI for securities) add additional compliance layers.
+
+Organizations operating in India must navigate this multi-layered regulatory framework, ensuring compliance across the IT Act, DPDPA, CERT-In directions, and applicable sector-specific regulations.

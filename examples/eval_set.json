@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the penalty for failure to take reasonable security safeguards to prevent personal data breach under DPDPA?",
+    "expected_document": "digital_personal_data_protection_act_2023.txt",
+    "expected_keywords": ["Rs 250 crore", "security safeguards", "fiduciary"],
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "question": "क्या DPDPA बच्चों के डेटा के ट्रैकिंग और लक्षित विज्ञापन पर प्रतिबंध लगाता है?",
+    "expected_document": "digital_personal_data_protection_act_2023.txt",
+    "expected_keywords": ["targeted advertising", "tracking", "children"],
+    "language": "hi"
+  },
+  {
+    "id": 3,
+    "question": "What is the mandatory reporting timeline for cyber incidents according to CERT-In?",
+    "expected_document": "cert_in_cybersecurity_directions_2022.txt",
+    "expected_keywords": ["6 hours", "incident reporting", "timeline"],
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "question": "How long must cloud service providers retain logs under CERT-In directions?",
+    "expected_document": "cert_in_cybersecurity_directions_2022.txt",
+    "expected_keywords": ["180 days", "rolling period", "logs"],
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "question": "What does the MeghRaj initiative represent in the cloud computing guidelines?",
+    "expected_document": "meity_cloud_computing_guidelines.txt",
+    "expected_keywords": ["GI Cloud", "MeghRaj", "e-services"],
+    "language": "en"
+  },
+  {
+    "id": 6,
+    "question": "Does cloud data for the Indian government have to be localized?",
+    "expected_document": "meity_cloud_computing_guidelines.txt",
+    "expected_keywords": ["within the geographical boundaries of India", "localised", "localization"],
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "question": "What is the mandatory cooling-off period for digital loans under RBI guidelines?",
+    "expected_document": "rbi_digital_lending_guidelines.txt",
+    "expected_keywords": ["3 days", "cooling-off", "look-up period"],
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "question": "RBI के अनुसार डिजिटल लेंडिंग ऐप कौन सा मोबाइल डेटा एक्सेस नहीं कर सकते?",
+    "expected_document": "rbi_digital_lending_guidelines.txt",
+    "expected_keywords": ["contacts", "photos", "gallery", "media"],
+    "language": "hi"
+  },
+  {
+    "id": 9,
+    "question": "Which section of the Information Technology Act was struck down by the Supreme Court?",
+    "expected_document": "information_technology_act_2000.txt",
+    "expected_keywords": ["Section 66A", "Shreya Singhal", "offensive messages"],
+    "language": "en"
+  },
+  {
+    "id": 10,
+    "question": "How do DPDPA penalties compare with the Information Technology Act's compensation under Section 43A?",
+    "expected_document": "information_technology_act_2000.txt",
+    "expected_keywords": ["Section 43A", "Rs 250 crore", "Rs 1 crore", "subsume"],
+    "language": "en"
+  }
+]

@@ -1,0 +1,125 @@
+MEITY GUIDELINES ON CLOUD COMPUTING
+Government Cloud (GI Cloud) Initiative — "MeghRaj"
+Ministry of Electronics and Information Technology (MeitY)
+Government of India
+
+INTRODUCTION
+
+The Government of India, through the Ministry of Electronics and Information Technology (MeitY), has formulated a comprehensive policy framework for the adoption of cloud computing in government departments and agencies. The Government Cloud initiative, branded as "MeghRaj" (meaning "King of Clouds" in Sanskrit), aims to accelerate the delivery of e-services in the country while optimizing ICT spending of the government.
+
+CHAPTER 1: OBJECTIVES
+
+1.1 Strategic Goals
+The MeghRaj initiative has the following objectives:
+- Accelerate delivery of e-services in the country.
+- Optimise ICT spending of the government by sharing infrastructure.
+- Provide a common platform for government departments and agencies.
+- Ensure interoperability and data portability across government systems.
+- Create a trusted, secure, and transparent cloud environment for government data.
+
+1.2 Cloud First Policy
+The Government of India has adopted a Cloud First Policy, which mandates that all new government IT projects must evaluate cloud deployment as the first option before considering traditional on-premise infrastructure. This policy aims to reduce capital expenditure and promote operational efficiency.
+
+CHAPTER 2: EMPANELMENT OF CLOUD SERVICE PROVIDERS
+
+2.1 Audit Requirements
+Cloud Service Providers (CSPs) seeking to provide services to the Indian government must undergo a comprehensive audit by a CERT-In empanelled auditor. The audit covers:
+- Information security management systems (ISO 27001 compliance).
+- Business continuity and disaster recovery capabilities.
+- Physical security of data centres.
+- Network security and access control.
+- Data encryption at rest and in transit.
+- Incident response and management procedures.
+- Compliance with Indian data localisation requirements.
+
+2.2 Data Localisation for Government Data
+All government data hosted on cloud platforms must be stored within the geographical boundaries of India. The cloud service provider must ensure that:
+- Primary data storage is within India.
+- Backup and disaster recovery sites are within India.
+- Data is not transferred, accessed, or processed outside India without explicit approval.
+- All encryption keys are managed within India.
+
+This requirement is stricter than the DPDPA's general cross-border transfer provisions, which use a negative list approach allowing transfers to all countries except those specifically restricted.
+
+2.3 Categories of Cloud Services
+The empanelment covers three categories:
+- Infrastructure as a Service (IaaS): Virtual machines, storage, networking.
+- Platform as a Service (PaaS): Development environments, databases, middleware.
+- Software as a Service (SaaS): Applications, email, collaboration tools.
+
+CHAPTER 3: SECURITY FRAMEWORK
+
+3.1 Security Classification
+Government data hosted on cloud is classified into three categories:
+- Normal: Non-sensitive government data that can be hosted on any empanelled CSP.
+- Sensitive: Data that requires enhanced security measures, including encryption and access control.
+- Top Secret: Data that must be hosted only on the Government Community Cloud operated by NIC.
+
+3.2 Security Controls
+The following security controls are mandatory for all empanelled CSPs:
+- Multi-factor authentication for all administrative access.
+- Encryption of data at rest using AES-256 or equivalent.
+- Encryption of data in transit using TLS 1.2 or higher.
+- Regular vulnerability assessments and penetration testing.
+- Security incident monitoring and alerting.
+- Log retention for a minimum of 180 days (aligned with CERT-In requirements).
+- Annual security audits by CERT-In empanelled auditors.
+
+3.3 Access Control
+- Role-Based Access Control (RBAC) must be implemented.
+- Principle of least privilege must be followed.
+- All access must be logged and auditable.
+- Privileged access must require additional authentication.
+
+CHAPTER 4: DATA GOVERNANCE
+
+4.1 Data Ownership
+The government department or agency retains full ownership of all data hosted on cloud platforms. The CSP has no rights over the data and cannot:
+- Access data without explicit authorization.
+- Use data for any purpose other than providing the contracted services.
+- Share data with third parties.
+- Retain data after contract termination.
+
+4.2 Data Portability
+CSPs must ensure that government data can be exported in standard, open formats at any time. This includes:
+- Database exports in standard SQL format.
+- File storage exports in original formats.
+- API access for programmatic data extraction.
+- Migration support when switching between CSPs.
+
+4.3 Data Destruction
+Upon contract termination, the CSP must:
+- Return all data to the government department in the agreed format.
+- Securely destroy all copies of the data within 45 days.
+- Provide a certificate of destruction.
+- Ensure that data cannot be recovered from storage media.
+
+CHAPTER 5: SERVICE LEVEL AGREEMENTS
+
+5.1 Minimum SLA Requirements
+- Availability: 99.5% uptime for Normal classification, 99.9% for Sensitive.
+- Data backup: Daily backups with 30-day retention.
+- Incident response: Critical incidents must be reported within 4 hours.
+- Support: 24x7 support for Sensitive and Top Secret classifications.
+
+5.2 Penalties for SLA Breaches
+CSPs failing to meet SLA commitments face:
+- Service credits for downtime exceeding agreed thresholds.
+- Termination of empanelment for repeated breaches.
+- Financial penalties as specified in the contract.
+
+CHAPTER 6: AI AND EMERGING TECHNOLOGIES ON CLOUD
+
+6.1 AI Services on Government Cloud
+The government encourages the use of AI and machine learning services on government cloud platforms. However, the following conditions apply:
+- AI models processing government data must be trained and deployed within India.
+- Personal data used for AI training must comply with the DPDPA provisions.
+- AI systems used for government decision-making must be auditable and explainable.
+- The government reserves the right to audit AI models for bias and fairness.
+
+6.2 Emerging Technology Adoption
+Government departments are encouraged to adopt emerging technologies including AI, blockchain, IoT, and big data analytics through cloud platforms. The cloud-first policy applies to all emerging technology deployments.
+
+CONCLUSION
+
+The MeghRaj initiative represents a transformative approach to government IT infrastructure. By leveraging cloud computing, the government aims to improve service delivery, reduce costs, and enhance the overall digital governance framework. The security and data governance requirements ensure that government data remains protected while enabling innovation and efficiency.

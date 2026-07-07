@@ -1,0 +1,149 @@
+DIGITAL PERSONAL DATA PROTECTION ACT, 2023
+Government of India
+Ministry of Electronics and Information Technology
+
+AN ACT TO PROVIDE FOR THE PROCESSING OF DIGITAL PERSONAL DATA IN A MANNER THAT RECOGNISES BOTH THE RIGHT OF INDIVIDUALS TO PROTECT THEIR PERSONAL DATA AND THE NEED TO PROCESS SUCH PERSONAL DATA FOR LAWFUL PURPOSES.
+
+CHAPTER I: PRELIMINARY
+
+Section 1: Short Title and Commencement
+This Act may be called the Digital Personal Data Protection Act, 2023. It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+Section 2: Definitions
+
+"Consent" means free, specific, informed, unconditional and unambiguous indication of the Data Principal's wishes by which they agree to the processing of their personal data for the specified purpose. Consent must be limited to such personal data as is necessary for the specified purpose.
+
+"Data Fiduciary" means any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data. This includes government bodies, private companies, and non-profit organizations.
+
+"Data Principal" means the individual to whom the personal data relates. Where such individual is a child, the term includes the parent or lawful guardian of such child.
+
+"Data Processor" means any person who processes personal data on behalf of a Data Fiduciary.
+
+"Personal data" means any data about an individual who is identifiable by or in relation to such data. This includes name, address, email, phone number, biometric data, financial information, and any other data that can directly or indirectly identify an individual.
+
+"Significant Data Fiduciary" means a Data Fiduciary or class of Data Fiduciaries as may be notified by the Central Government based on volume and sensitivity of personal data processed, risk to the rights of Data Principals, potential impact on sovereignty and integrity of India, risk to electoral democracy, and security of the State.
+
+CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY
+
+Section 4: Ground for Processing Personal Data
+A Data Fiduciary may process personal data only in accordance with the provisions of this Act and for a lawful purpose:
+(a) for which the Data Principal has given consent; or
+(b) for certain legitimate uses as specified in this Act.
+
+Section 5: Notice
+Before collecting personal data, the Data Fiduciary must provide the Data Principal with a notice containing:
+- A description of the personal data sought to be collected.
+- The purpose for which the data is being processed.
+- The manner in which the Data Principal may exercise their rights.
+- The manner in which the Data Principal may make a complaint to the Data Protection Board of India.
+
+Section 6: Consent Requirements
+Consent given by the Data Principal shall be:
+- Free, specific, informed, unconditional and unambiguous.
+- Given through a clear affirmative action.
+- Limited to the personal data necessary for the specified purpose.
+- Capable of being withdrawn at any time, with the ease of withdrawal being comparable to the ease of giving consent.
+
+Section 7: Legitimate Uses Without Consent
+Personal data may be processed without consent for:
+- Compliance with any law or court order.
+- Response to a medical emergency involving a threat to life.
+- Employment-related purposes where the employer is the Data Fiduciary.
+- Public interest purposes as prescribed by the Central Government.
+
+Section 8: General Obligations of Data Fiduciary
+Every Data Fiduciary shall:
+- Ensure completeness, accuracy, and consistency of personal data.
+- Implement appropriate technical and organisational measures to ensure effective compliance.
+- Protect personal data by taking reasonable security safeguards to prevent personal data breach.
+- Erase personal data when consent is withdrawn or when the specified purpose is no longer being served, unless retention is required by law.
+
+CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL
+
+Section 11: Right to Access Information
+The Data Principal has the right to obtain:
+- Confirmation of whether their personal data is being processed.
+- A summary of personal data being processed.
+- The identities of all Data Fiduciaries and Data Processors with whom personal data has been shared.
+- Any other information related to personal data processing as may be prescribed.
+
+Section 12: Right to Correction and Erasure
+The Data Principal has the right to:
+- Correction of inaccurate or misleading personal data.
+- Completion of incomplete personal data.
+- Updating of personal data.
+- Erasure of personal data that is no longer necessary for the purpose for which it was processed.
+
+Section 13: Right of Grievance Redressal
+Every Data Fiduciary shall have a mechanism for grievance redressal. The Data Fiduciary must respond to grievances within 30 days. If the Data Principal is not satisfied, they may file a complaint with the Data Protection Board of India.
+
+Section 14: Right to Nominate
+The Data Principal has the right to nominate any individual who shall exercise the rights of the Data Principal in the event of death or incapacity.
+
+Section 15: Duties of Data Principal
+The Data Principal shall:
+- Comply with applicable laws while exercising rights under this Act.
+- Not file false or frivolous complaints.
+- Provide authentic information when exercising the right to correction.
+
+CHAPTER IV: SPECIAL PROVISIONS
+
+Section 16: Processing of Personal Data of Children
+- Consent for processing a child's personal data must be obtained from the parent or lawful guardian.
+- A child is defined as an individual who has not completed eighteen years of age.
+- The Data Fiduciary shall not undertake tracking or behavioural monitoring of children.
+- The Data Fiduciary shall not undertake targeted advertising directed at children.
+- Data Fiduciaries offering services to children must verify the age of the Data Principal.
+
+Section 17: Significant Data Fiduciary
+A Significant Data Fiduciary shall:
+- Appoint a Data Protection Officer based in India.
+- Appoint an independent data auditor.
+- Conduct periodic Data Protection Impact Assessments.
+- Undertake periodic audits of its data processing activities.
+
+CHAPTER V: TRANSFER OF PERSONAL DATA OUTSIDE INDIA
+
+Section 18: Cross-Border Data Transfer
+The Central Government may, by notification, restrict the transfer of personal data to such country or territory outside India as may be specified. Personal data may be transferred outside India except to countries notified by the Central Government as restricted. This approach uses a negative list — all countries are allowed unless specifically restricted.
+
+CHAPTER VI: EXEMPTIONS
+
+Section 19: Exemptions
+The Central Government may exempt certain Data Fiduciaries from certain provisions in the interest of:
+- Sovereignty and integrity of India.
+- Security of the State.
+- Friendly relations with foreign States.
+- Maintenance of public order.
+- Prevention, detection, investigation, and prosecution of offences.
+
+The Central Government may exempt government instrumentalities from certain provisions by notification. This exemption has been a subject of significant debate, with privacy advocates expressing concerns about unchecked government surveillance.
+
+CHAPTER VII: DATA PROTECTION BOARD OF INDIA
+
+Section 20: Establishment
+The Central Government shall establish the Data Protection Board of India. The Board shall be a digital office and shall function as an independent body.
+
+Section 21: Functions of the Board
+The Board shall:
+- Determine non-compliance with this Act.
+- Impose penalties as specified.
+- Direct remedial measures in case of personal data breach.
+- Hear and decide complaints filed by Data Principals.
+
+Section 22: Penalties
+- Up to Rs 250 crore for failure to take reasonable security safeguards to prevent personal data breach.
+- Up to Rs 200 crore for failure to notify the Board and affected Data Principals of a personal data breach.
+- Up to Rs 150 crore for non-compliance with obligations related to children's data.
+- Up to Rs 50 crore for non-compliance with other provisions of this Act.
+
+CHAPTER VIII: MISCELLANEOUS
+
+Section 23: Blocking of Content
+If the Central Government is satisfied that it is necessary for preventing dissemination of personal data in contravention of this Act, it may direct any intermediary to take steps to ensure that the content is blocked.
+
+Section 24: Voluntary Undertaking
+A Data Fiduciary may, at any stage of proceedings, submit a voluntary undertaking to the Board, proposing corrective measures. If the Board accepts the undertaking, proceedings may be terminated.
+
+IMPLEMENTATION TIMELINE
+The Act received Presidential assent on August 11, 2023. The rules under the Act are expected to be notified in phases, with full enforcement anticipated by 2025. Data Fiduciaries are advised to begin compliance preparations immediately.

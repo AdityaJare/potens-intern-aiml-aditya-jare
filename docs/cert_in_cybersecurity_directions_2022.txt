@@ -1,0 +1,129 @@
+INDIAN COMPUTER EMERGENCY RESPONSE TEAM (CERT-In)
+CYBERSECURITY DIRECTIONS 2022
+Ministry of Electronics and Information Technology, Government of India
+
+BACKGROUND AND PURPOSE
+
+The Indian Computer Emergency Response Team (CERT-In) has issued these directions under the provisions of the Information Technology Act, 2000. These directions are intended to strengthen cybersecurity practices across India and mandate specific obligations for service providers, intermediaries, data centres, body corporates, and Government organisations.
+
+These directions were issued on April 28, 2022, and came into effect on June 27, 2022. They represent the most significant cybersecurity compliance mandate issued by the Indian government.
+
+SECTION 1: INCIDENT REPORTING
+
+1.1 Mandatory Reporting Timeline
+Any service provider, intermediary, data centre, body corporate and Government organisation shall mandatorily report cyber incidents to CERT-In within 6 hours of noticing such incidents or being brought to notice about such incidents.
+
+This 6-hour reporting requirement is significantly stricter than international norms. The EU's GDPR requires reporting within 72 hours. The United States' CIRCIA Act requires reporting within 72 hours for critical infrastructure. India's 6-hour mandate reflects the government's urgency in addressing cybersecurity threats.
+
+1.2 Types of Incidents to Report
+The following types of cyber security incidents shall be mandatorily reported:
+- Targeted scanning/probing of critical networks/systems.
+- Compromise of critical systems/information.
+- Unauthorised access of IT systems/data.
+- Defacement of website or intrusion into a website and unauthorized changes.
+- Malicious code attacks and attacks on servers.
+- Identity theft, spoofing and phishing attacks.
+- Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks.
+- Attacks on critical infrastructure, SCADA, and IoT systems.
+- Attacks on applications such as E-Governance and E-Commerce.
+- Data breaches and data leaks.
+- Attacks through malicious mobile applications.
+- Fake mobile apps.
+- Unauthorized access to social media accounts.
+- Attacks or malicious activities affecting cloud computing systems.
+- Attacks or malicious activities affecting systems related to Big Data, Blockchain, virtual assets, robotics, 3D and 4D printing, and AI/ML.
+
+1.3 Reporting Format
+CERT-In has prescribed a specific format for incident reporting. Reports must include:
+- Nature and type of cyber incident.
+- Date and time of occurrence.
+- Number of systems/networks affected.
+- Description of the impact.
+- Remedial measures taken or proposed.
+- Contact details of the person reporting.
+
+SECTION 2: SYNCHRONIZATION OF ICT CLOCKS
+
+All service providers, intermediaries, data centres, body corporate and Government organisations shall connect to the Network Time Protocol (NTP) Server of National Informatics Centre (NIC) or National Physical Laboratory (NPL) or with NTP servers traceable to these NTP servers, for synchronisation of all their ICT system clocks.
+
+This is a critical forensic requirement. Synchronized clocks ensure that log timestamps across different systems can be correlated during incident investigation. Without time synchronization, establishing the sequence of events during a cyber attack becomes extremely difficult.
+
+SECTION 3: LOG RETENTION
+
+3.1 Mandatory Log Retention Period
+All service providers, intermediaries, data centres, body corporate and Government organisations shall mandatorily enable logs of all their ICT systems and maintain them securely for a rolling period of 180 days. The logs shall be maintained within Indian jurisdiction.
+
+3.2 Log Types Required
+The following logs must be maintained:
+- Firewall logs
+- Intrusion detection/prevention system logs
+- Web server logs
+- Application logs
+- Database logs
+- Mail server logs
+- Authentication logs
+- VPN logs
+- Network device logs (routers, switches)
+
+3.3 Log Integrity
+Logs must be maintained in a manner that ensures their integrity and cannot be tampered with. Organizations should implement log management solutions that provide tamper-evident storage.
+
+SECTION 4: DATA CENTRE AND CLOUD SERVICE PROVIDER OBLIGATIONS
+
+4.1 Registration Requirements
+Data centres, Virtual Private Server (VPS) providers, Cloud Service providers and Virtual Private Network (VPN) Service providers shall register the following information:
+- Validated names of subscribers/customers
+- Period of hire including dates
+- IPs allotted to/being used by members
+- Email address, IP address and time stamp used at the time of registration
+- Purpose for hiring services
+- Validated address and contact numbers
+- Ownership pattern of the subscribers/customers
+
+4.2 Data Retention
+Service providers must maintain all information obtained for registration for a period of 5 years or longer as mandated after any cancellation or withdrawal of registration. This is a notable requirement that exceeds the data minimization principles advocated by data protection laws.
+
+SECTION 5: VIRTUAL ASSET SERVICE PROVIDERS
+
+Virtual asset service providers, virtual asset exchange providers, and custodian wallet providers shall maintain all information obtained as part of Know Your Customer (KYC) and records of financial transactions for a period of 5 years.
+
+This includes:
+- Customer identification records
+- Transaction records
+- Wallet addresses
+- IP addresses used for transactions
+
+SECTION 6: OBLIGATIONS FOR INTERMEDIARIES
+
+6.1 Social Media and Communication Platforms
+Intermediaries providing services related to social media and instant messaging shall:
+- Maintain registration information for 5 years after deregistration.
+- Enable tracing of the first originator of information when directed by competent authority.
+- Cooperate with CERT-In during incident investigation.
+
+6.2 Point of Contact
+All entities covered under these directions shall designate a Point of Contact to interface with CERT-In. The Point of Contact shall:
+- Be available 24x7.
+- Be reachable through Indian communication channels.
+- Respond to CERT-In directions within the stipulated timeline.
+
+SECTION 7: COMPLIANCE AND PENALTIES
+
+Non-compliance with these directions may result in:
+- Penalties under Section 70B of the Information Technology Act, 2000.
+- Imprisonment for up to one year, or fine up to one lakh rupees, or both.
+- Additional penalties as prescribed under applicable cyber security laws.
+
+SECTION 8: IMPACT ON PRIVACY
+
+These directions have generated significant debate regarding their impact on individual privacy. Critics argue that:
+- The 6-hour reporting mandate may lead to premature disclosures.
+- The extensive log retention requirements create surveillance risks.
+- VPN provider regulations may compromise user privacy.
+- The data retention period of 5 years exceeds what is necessary.
+
+However, the government maintains that these measures are essential for national security and for investigating cyber crimes effectively. The balance between cybersecurity and privacy remains an ongoing discussion in India's technology policy landscape.
+
+CONCLUSION
+
+These CERT-In directions represent a paradigm shift in India's cybersecurity compliance framework. Organizations operating in India must implement comprehensive logging, monitoring, and incident response capabilities to comply with these requirements. The strict timelines and extensive data retention obligations require significant investment in cybersecurity infrastructure and processes.
