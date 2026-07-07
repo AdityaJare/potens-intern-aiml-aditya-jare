@@ -70,7 +70,7 @@ graph TD
     A["User (Streamlit Web UI)"] -->|Hindi/English Query| B["/ask Engine Endpoint"]
     A -->|Select Doc A, Doc B + Topic| C["/contradict Engine Endpoint"]
     
-    B -->|D["Language Detector (langdetect)"]
+    B --> D["Language Detector (langdetect)"]
     D -->|Hindi Query| E["Boundary Translation (Online Groq API)"]
     E -->|English Query| F["Embedding Search (Local all-MiniLM-L6-v2)"]
     D -->|English Query| F
